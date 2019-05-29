@@ -1,5 +1,5 @@
 # Gerador de combinações numéricas desenvolvido com Vue js
-Web App para gerar combinções numéricas que usa uma função de validação com a fórmula da combinação que é N!/S!*(N-S)! que impede da aplicação gerar dados errados ou repetidos,o N da fórmula é a quantidade de elementos que vou combinar, no caso chamo de dezenas no terceiro input, e N! siginifica o valor de N fatoriado, exemplo N = 4, N! = 4 * 3 * 2 *1; = N! = 24, e por último o S que significa aquantidade de números que cada combinação tera.
+Web App para gerar combinções numéricas que usa uma função de validação com a fórmula da combinação que é N!/S!*(N-S)! que impede da aplicação gerar dados errados ou repetidos,o N da fórmula é a quantidade de elementos que vou combinar, no caso chamo de dezenas no terceiro input, e N! siginifica o valor de N fatoriado, exemplo N = 4, N! = 4 * 3 * 2 *1, N! = 24, e por último o S que significa a quantidade de números que cada combinação tera.
 A aplicação conta com três inputs e dois botões
 primeiro input coleta quantidade de números por combinação,
 segundo input coleta quantidade de combinações que deseja gerar,
