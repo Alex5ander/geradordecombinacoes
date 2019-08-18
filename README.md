@@ -3,7 +3,7 @@ Web App para gerar combinções numéricas que usa uma função de validação c
 <p>A aplicação conta com três inputs e dois botões.</p>
 <p>Primeiro input coleta quantidade de números por combinação.</p>
 <p>Segundo input coleta quantidade de combinações que deseja gerar.</p>
-<p>Terceiro input coleta quantidade de dezenas.</p>
+<p>Terceiro input coleta quantidade de dezenas ou arranjo de números.</p>
 <p>O botão de gerar como o próprio nome já diz gera as combinações.</p>
 <p>O botão de imprimir exibi a página de impressão com a tabela já formatada para o usuário imprir sem que saia com os inputs, botões ou outro elemento do html</p>
 <p>Exemplo de entradas e saida do programa.</p>
