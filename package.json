@@ -1,0 +1,13 @@
+{
+	"name": "Gerador",
+	"version": "0.1.0",
+	"main": "index.html",
+	"window": {
+		"frame": true,
+		"show":true
+	},
+	"show":true,
+	"webkit": {
+		"plugin": true
+	}
+}
