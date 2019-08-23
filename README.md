@@ -12,4 +12,4 @@ Web App para gerar combinções numéricas que usa uma função de validação c
 <p>1 2</p>
 <p>1 3</p>
 <p>2 3</p>
-<a href="http://alex5ander.github.io/geradordecombinacoes/">Executar o gerador de combinações</a>
+<a target="_blank" href="http://alex5ander.github.io/geradordecombinacoes/">Executar o gerador de combinações</a>
