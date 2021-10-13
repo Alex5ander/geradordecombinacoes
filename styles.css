@@ -109,11 +109,18 @@ table{
 	font-weight:bold;
 	width:100%;
 }
+@page{
+	margin: 1.5cm;
+	size: A4 landscape;
+	windows: 0;
+	orphans: 0;
+}
 @media print{
 	table{
 		color:black;
 		font-size:2em;
 		page-break-inside: auto;
+		page-break-after: auto;
 	}
 	tr {
 		page-break-inside: avoid;
