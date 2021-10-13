@@ -113,7 +113,12 @@ table{
 	table{
 		color:black;
 		font-size:2em;
+		page-break-inside: auto;
 	}
+	tr {
+		page-break-inside: avoid;
+		page-break-after: auto;
+	}	
 	#app{
 		box-shadow:none;
 		border:none;
