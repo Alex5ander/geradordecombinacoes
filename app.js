@@ -22,7 +22,6 @@
 				var combincao = "";
 				var numero;
 				this.jogos = "";
-				setTimeout(()=>{
 				while(this.jogos.split(" ").length -1 != this.qtc){
 					numero = Math.floor(Math.random() * this.qtd) + 1;
 					if(numero < 10){
@@ -43,7 +42,6 @@
 				}
 				
 				this.createTable();
-				},1000);
 			}else{
 				this.gerando_status[0] = "error";
 			}
