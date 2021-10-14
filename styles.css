@@ -106,7 +106,7 @@ table{
 	font-size:1em;
 	font-weight:bold;
 	width:100%;
-	border-collapsed: collapsed;
+	border-collapse: collapse;
 }
 @page{
 	margin: 1.5cm;
